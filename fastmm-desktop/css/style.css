@@ -1,3 +1,13 @@
+header ul{
+
+  display: flex;
+
+}
+
+header ul li{
+  padding-right: 4rem;
+}
+
 @font-face {
   font-family: 'Play';
   font-style: normal;
@@ -308,6 +318,7 @@ html {
               box-shadow: 100vh 0 0 0 #c0c0c0 inset;
     }
 }
+
 
   div.filters-menu .container.stat .row > *,
   div.filters-menu .container.price .row > * {
